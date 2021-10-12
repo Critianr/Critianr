@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning React
 - 💬 Ask me about what I know 
  
--**📫 How to reach me:**
+**📫 How to reach me:**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Critianr&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Critianr&show_icons=true&theme=radical&text_color=34CA15)
 ](https://github.com/anuraghazra/github-readme-stats)
 
 
