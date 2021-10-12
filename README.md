@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi soy Cristian 👋
 
-
-
-Ask me about what I know 
-
+- 🌱 I’m currently learning React
+- 💬 Ask me about what I know 
+**- 📫 How to reach me:**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Critianr)](https://github.com/anuraghazra/github-readme-stats)
 
