@@ -1,7 +1,7 @@
 <h1 align = "center"> Hola 👋, soy Cristian </h1>
 <h3 align = "center"> Un apasionado desarrollador de frontend de Colombia </h3>
 
-- 🌱 Actualmente soy lo que soy y lo aprendo todo ** Reaccionar **
+- 🌱 Actualmente soy lo que soy y lo aprendo todo
 
 - 📫 Cómo comunicarse conmigo ** cramire122@gmail.com **
 
